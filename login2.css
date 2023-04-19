@@ -1,0 +1,56 @@
+body{
+    background: rgb(227,21,163);
+    background: radial-gradient(circle, rgba(227,21,163,1) 0%, rgba(176,183,223,1) 70%, rgba(148,187,233,1) 91%, rgba(180,182,221,1) 95%, rgba(219,181,216,1) 100%);
+    line-height: 40px;
+    margin-top: none;
+
+}
+table{
+    background-color: white;
+    width: 100px;
+    padding: 40px 50px;
+    line-height: 60px;
+}
+input[type=text]{ 
+    border-top: none;
+    border-left: none;
+    border-right:none ;
+    width: 100%;
+    border-color:#eb34cc;
+}
+input[type=password]{
+    border-top: none;
+    border-left: none;
+    border-right:none ;
+    width: 100%;
+    border-color:#eb34cc;
+}
+button{
+    width: 250px;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+#con{
+    background-color: rgb(227,21,163);
+}
+#twi{
+    background-color: lightseagreen;
+    text-align: left;
+    text-align: left;
+    text-indent: 15px;
+
+}
+
+#fac{
+    background-color: blue;
+    text-align: left;
+    text-indent: 15px;
+
+}
+#t{
+    float: left;
+
+}
+#f{
+    float: left;
+}

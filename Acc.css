@@ -1,0 +1,31 @@
+table{  
+    border: solid;
+    width: 25%;
+    padding: 30px 30px;
+    margin-top: 90px;
+}
+body{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+form{
+    line-height: 50px;
+}
+button{
+    width: 320px;
+    padding: 10px 10px;
+    background-color: lightseagreen;
+}
+#username{
+    width: 300px;
+    padding: 10px 10px;
+}
+#pass{
+    width: 300px;
+    padding: 10px 10px;
+}
+#t{
+    width: 1000px;
+    height: 1000px;
+    border-style: solid;
+}

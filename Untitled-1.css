@@ -1,0 +1,17 @@
+
+for (var pixel of image.values()) {
+    x = pixel.getX();
+    y = pixel.getY();
+    if (y <= image.getHeight()/3) {
+        pixel.setRed(255);
+    }
+    else if (MISSING CONDITION) {    
+        pixel.setBlue(255);
+    }
+    else if (x <= image.getWidth()/3) {
+        pixel.setRed(255);
+    }
+    else {
+        pixel.setGreen(255);
+    }
+}
